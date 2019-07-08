@@ -14,16 +14,24 @@ You will need [Node.js](https://nodejs.org/en/) installed on your system.
 ### Installing 
 1) Open terminal/command prompt and enter in the directory you to save the code.
 2) Clone this repo
+
 ``` git clone https://github.com/SaaranshMishra/recipe-search.git ``` 
+
 3) Enter into the cloned directory
+
 ``` cd recipe-search ``` 
+
 4) Install all the dependencies
+
 ``` npm install ``` 
+
 5) Run the project in development mode
+
 ``` npm start ```
 
+
 ## Built With 
-* [React.js](http://www.dropwizard.io/1.0.2/docs/) - Front-end JavaScript framework. This project, specifically, was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+* [React.js](https://reactjs.org/) - Front-end JavaScript framework. This project, specifically, was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 * [Edamam's Recipe Search API](https://developer.edamam.com/edamam-docs-recipe-api) - An API that send different recipes as JSON based on user query.
 
 ## Author 
