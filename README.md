@@ -6,7 +6,7 @@ The project was challenge to work with the newly introduced [React Hooks](https:
 You can visit the site [here](https://search-recipe.netlify.com/)
 
 ## Getting Started 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites 
 You will need [Node.js](https://nodejs.org/en/) installed on your system.
@@ -35,4 +35,4 @@ You will need [Node.js](https://nodejs.org/en/) installed on your system.
 * [Edamam's Recipe Search API](https://developer.edamam.com/edamam-docs-recipe-api) - An API that send different recipes as JSON based on user query.
 
 ## Author 
-* **[Saaransh Mishra]**(https://github.com/SaaranshMishra) 
+* [**Saaransh Mishra**](https://github.com/SaaranshMishra) 
